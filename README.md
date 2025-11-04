@@ -25,7 +25,7 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 - Explore more cybersecurity tools and configurations
 
 ## 🍀 My Journey
-I'm still quite early in my IT degree, but I truly enjoy learning how systems work and how we secure them. 
+I'm still early in my IT degree, but I truly enjoy learning how systems work and how we secure them. 
 This space will continue to grow as I do. 
 
 ## 🔗 Let's Connect! 🔗
