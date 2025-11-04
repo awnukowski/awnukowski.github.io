@@ -33,6 +33,6 @@ Commands for creating files/directories, changing permissions, ownership, and ve
 I'm still quite early in my IT degree, but I truly enjoy learning how systems work and how we secure them. 
 This space will continue to grow as I do. 
 
-## Let's Connect!
+## 🔗 Let's Connect! 🔗
 [LinkedIn]()
 [Email](mailto:alyssawnukowski@gmail.com)
