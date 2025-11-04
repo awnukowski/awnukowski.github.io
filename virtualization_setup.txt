@@ -1,0 +1,20 @@
+# Create a new virtual machine in VirtualBox
+VBoxManage createvm --name "LinuxVM" --register
+
+# Set memory and CPU
+VBoxManage modifyvm "LinuxVM" --memory 2048 --cpus 2
+
+# Create a virtual hard disk
+VBoxManage createhd --filename "LinuxVM.vdi" --size 20000
+
+# Create a SATA controller
+VBoxManage storagectl "LinuxVM" --name "SATA Controller" --add sata --controller IntelAhci
+
+# Attach hard disk
+VBoxManage storageattach "LinuxVM" --storagectl "SATA Controller" --port 0 --device 0 --type hdd --medium "LinuxVM.vdi"
+
+# Attach ISO for installation
+VBoxManage storageattach "LinuxVM" --storagectl "SATA Controller" --port 1 --device 0 --type dvddrive --medium "ubuntu.iso"
+
+# Start the VM
+VBoxManage startvm "LinuxVM"

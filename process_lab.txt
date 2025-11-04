@@ -1,0 +1,11 @@
+# List all running processes
+ps aux
+
+# Monitor system performance in real-time
+top
+
+# Stop a process with PID 1234
+kill 1234
+
+# View detailed information about apache2 processes
+ps -ef | grep apache2

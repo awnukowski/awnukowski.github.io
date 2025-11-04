@@ -1,0 +1,15 @@
+# Created tes# Create test files and directories
+mkdir testdir
+touch testfile.txt
+
+# Change permissions
+chmod 644 testfile.txt
+chmod 755 testdir
+
+# Change ownership
+chown alyssa:testgroup testfile.txt
+chown alyssa:testgroup testdir
+
+# Verify changes
+ls -l
+
