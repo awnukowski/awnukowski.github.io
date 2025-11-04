@@ -1,5 +1,5 @@
 # Hi, I'm Alyssa :)
-My growing portfolio showcasing labs and projects in Linux administration, system security, and cybersecurity. 
+Welcome to my growing portfolio showcasing labs and projects in Linux administration, system security, and cybersecurity. 
 
 ## Currently Learning
 - Linux command line and system admin
