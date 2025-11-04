@@ -17,7 +17,7 @@ Commands to create, configure, and start a Linux virtual machine in VirtualBox.
 
 ### 2. Linux Process Management
 Common Linux commands for monitoring and managing processes (`ps`, `top`, `kill`, etc.).  
-**File:** `process-_lab.txt`
+**File:** `process_lab.txt`
 
 ### 3. File Permissions & Ownership
 Commands for creating files/directories, changing permissions, ownership, and verifying changes.  
