@@ -11,17 +11,12 @@
 
 To showcase my learning and hands-on experience, this portfolio now includes three featured projects:
 
-### 1. Virtualization Practice Environment
-Commands to create, configure, and start a Linux virtual machine in VirtualBox.  
-**File:** `virtualization_setup.txt`
+### Portfolio Projects
 
-### 2. Linux Process Management
-Common Linux commands for monitoring and managing processes (`ps`, `top`, `kill`, etc.).  
-**File:** `process_lab.txt`
+- [Virtualization Practice Environment](virtualization_setup.txt) — Commands to create, configure, and start a Linux VM.
+- [Process Management](process_lab.txt) — Common Linux commands for monitoring and managing processes.
+- [File and Permissions Management](file_permissions.txt) — Commands for creating files/directories, changing permissions, and verifying changes.
 
-### 3. File Permissions & Ownership
-Commands for creating files/directories, changing permissions, ownership, and verifying changes.  
-**File:** `file_permissions.txt`
 
 
 ## 📍 Future Goals
