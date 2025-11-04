@@ -7,10 +7,27 @@ My growing portfolio showcasing labs and projects in Linux administration, syste
 - Virtualization (Hyper-V, VirtualBox)
 - Open-source software fundamentals
 
+## Portfolio Projects
+
+To showcase my learning and hands-on experience, this portfolio now includes three featured projects:
+
+### 1. VirtualBox VM Setup
+Commands to create, configure, and start a Linux virtual machine in VirtualBox.  
+**File:** `virtualization_setup.txt`
+
+### 2. Process Management
+Common Linux commands for monitoring and managing processes (`ps`, `top`, `kill`, etc.).  
+**File:** `process-_lab.txt`
+
+### 3. File and Permissions Management
+Commands for creating files/directories, changing permissions, ownership, and verifying changes.  
+**File:** `file_permissions.txt`
+
+
 ## Future Goals
-- Build a personal virtual lab environment
-- Practice shell scripting for automation
-- Explore cybersecurity tools and configurations
+- Expand my virtual lab environment with multiple VMs and networking setups, building on my VirtualBox project.
+- Practice shell scripting to automate tasks like file management, process monitoring, and VM configuration.
+- Explore more cybersecurity tools and configurations
 
 ## My Journey
 I'm still quite early in my IT degree, but I truly enjoy learning how systems work and how we secure them. 
