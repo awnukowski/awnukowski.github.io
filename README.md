@@ -49,7 +49,7 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 ## 📍 Future Goals
 - Expand my virtual lab environment with multiple VMs and networking setups, building on my VirtualBox project.
 - Practice shell scripting to automate tasks like file management, process monitoring, and VM configuration.
-- Explore more cybersecurity tools and configurations
+- Explore more cybersecurity tools and configurations.
 
 ## 🍀 My Journey
 I'm still early in my IT degree, but I truly enjoy learning how systems work and how we secure them. 
