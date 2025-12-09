@@ -29,5 +29,5 @@ I'm still early in my IT degree, but I truly enjoy learning how systems work and
 This space will continue to grow as I do. 
 
 ## 🔗 Let's Connect! 🔗
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/alyssa-wnukowski/)
 [Email](mailto:alyssawnukowski@gmail.com)
