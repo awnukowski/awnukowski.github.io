@@ -13,9 +13,9 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 
 ### Portfolio Projects
 
-- [Virtualization Practice Environment](virtualization_setup.txt) — Commands to create, configure, and start a Linux VM.
-- [Process Management](process_lab.txt) — Common Linux commands for monitoring and managing processes.
-- [File and Permissions Management](file_permissions.txt) — Commands for creating files/directories, changing permissions, and verifying changes.
+- [Virtualization Practice Environment](https://github.com/users/awnukowski/projects/4) — Commands to create, configure, and start a Linux VM.
+- [Process Management](https://github.com/users/awnukowski/projects/3) — Common Linux commands for monitoring and managing processes.
+- [File and Permissions Management](https://github.com/users/awnukowski/projects/5) — Commands for creating files/directories, changing permissions, and verifying changes.
 
 
 
