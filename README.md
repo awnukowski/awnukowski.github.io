@@ -22,7 +22,7 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 
 **Tools/Skills Used:** VirtualBox, Linux, VM configuration, disk management, ISO installation, Terminal commands, IT support fundamentals  
 
-**Reflection:** I learned how to create and configure virtual machines from scratch, including memory, CPU, and storage settings. Using the terminal to manage VMs helped me understand the steps behind virtualization, preparing me for real-world IT environments.
+**Reflection:** I learned how to create and configure virtual machines from scratch, including memory, CPU, and storage settings. Using the terminal to manage VMs helped me understand the steps behind virtualization.
 
 ---
 
@@ -33,7 +33,7 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 
 **Tools/Skills Used:** Linux, Terminal commands, Process monitoring, System administration, Troubleshooting, Resource management  
 
-**Reflection:** I learned how to view and manage processes efficiently in Linux, gaining experience with commands like `ps`, `top`, and `kill`. This project strengthened my troubleshooting skills and helped me understand system resource usage—important fundamentals for IT support and cybersecurity.
+**Reflection:** I learned how to view and manage processes efficiently in Linux, gaining experience with commands like `ps`, `top`, and `kill`. This project strengthened my troubleshooting skills and helped me understand system resource usage.
 
 ---
 
@@ -44,7 +44,7 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 
 **Tools/Skills Used:** Linux, Terminal commands, File system management, Permissions management, Ownership management, Troubleshooting  
 
-**Reflection:** I learned how to control access to files and directories in Linux, practice safe system administration, and verify changes effectively. This project reinforced foundational Linux security concepts and prepared me to manage file systems in IT and cybersecurity environments.
+**Reflection:** I learned how to control access to files and directories in Linux, practice safe system administration, and verify changes effectively. This project reinforced foundational Linux security concepts and prepared me to manage file systems.
 
 ---
 
@@ -56,7 +56,8 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 ---
 
 ## 🍀 My Journey
-I'm still early in my Cybersecurity degree, but I truly enjoy learning how systems work and how we secure them. This space will continue to grow as I do.  
+I'm still early in my Cybersecurity degree, but I truly enjoy learning how systems work and how we secure them. 
+This space will continue to grow as I do.  
 
 ---
 
