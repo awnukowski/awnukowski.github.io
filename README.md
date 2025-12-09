@@ -1,11 +1,15 @@
 # 🌸 Hi, I'm Alyssa 🌸
-🌻 Welcome to my growing portfolio showcasing labs and projects in Linux administration, system security, and cybersecurity. 
+🌻 Welcome to my growing portfolio showcasing labs and projects in Linux administration, system security, and cybersecurity.  
+
+---
 
 ## 📖 Currently Learning
-- Linux command line and system administration
-- Network security basics
-- Virtualization (Hyper-V, VirtualBox, Proxmox, GCP VMs)
-- Open-source software fundamentals
+- Linux command line and system administration  
+- Network security basics  
+- Virtualization (Hyper-V, VirtualBox, Proxmox, GCP VMs)  
+- Open-source software fundamentals  
+
+---
 
 ## 🚧 Portfolio Projects 🚧
 
@@ -44,17 +48,18 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 
 ---
 
-
-
 ## 📍 Future Goals
-- Expand my virtual lab environment with multiple VMs and networking setups, building on my VirtualBox project.
-- Practice shell scripting to automate tasks like file management, process monitoring, and VM configuration.
-- Explore more cybersecurity tools and configurations.
+- Expand my virtual lab environment with multiple VMs and networking setups, building on my VirtualBox project.  
+- Practice shell scripting to automate tasks like file management, process monitoring, and VM configuration.  
+- Explore more cybersecurity tools and configurations.  
+
+---
 
 ## 🍀 My Journey
-I'm still early in my IT degree, but I truly enjoy learning how systems work and how we secure them. 
-This space will continue to grow as I do. 
+I'm still early in my Cybersecurity degree, but I truly enjoy learning how systems work and how we secure them. This space will continue to grow as I do.  
+
+---
 
 ## 🔗 Let's Connect! 🔗
-[LinkedIn](https://www.linkedin.com/in/alyssa-wnukowski/)
+[LinkedIn](https://www.linkedin.com/in/alyssa-wnukowski/)  
 [Email](mailto:alyssawnukowski@gmail.com)
