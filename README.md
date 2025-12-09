@@ -11,15 +11,38 @@
 
 To showcase my learning and hands-on experience, this portfolio now includes three featured projects:
 
-### Virtualization Practice Environment
+### 1. Virtualization Practice Environment
 [View Project on GitHub](https://github.com/users/awnukowski/projects/4)
 
-**Overview:** Commands to create and configure a Linux VM using VirtualBox.  
-**Tools/Skills Used:** VirtualBox, Linux, VM configuration, disk management, ISO installation, terminal commands  
+**Overview:** Commands to create and configure a Linux VM using VirtualBox. Includes setting memory, CPU, storage, and installing the OS from an ISO image.  
+
+**Tools/Skills Used:** VirtualBox, Linux, VM configuration, disk management, ISO installation, Terminal commands, IT support fundamentals  
+
 **Reflection:** I learned how to create and configure virtual machines from scratch, including memory, CPU, and storage settings. Using the terminal to manage VMs helped me understand the steps behind virtualization, preparing me for real-world IT environments.
 
-- [Process Management](https://github.com/users/awnukowski/projects/3) — Common Linux commands for monitoring and managing processes.
-- [File and Permissions Management](https://github.com/users/awnukowski/projects/5) — Commands for creating files/directories, changing permissions, and verifying changes.
+---
+
+### 2. Process Management
+[View Project on GitHub](https://github.com/users/awnukowski/projects/3)
+
+**Overview:** Hands-on practice with Linux process management, including listing running processes, monitoring system performance, and stopping processes. Commands like `ps`, `top`, `kill`, and `grep` were used to manage and troubleshoot processes.  
+
+**Tools/Skills Used:** Linux, Terminal commands, Process monitoring, System administration, Troubleshooting, Resource management  
+
+**Reflection:** I learned how to view and manage processes efficiently in Linux, gaining experience with commands like `ps`, `top`, and `kill`. This project strengthened my troubleshooting skills and helped me understand system resource usage—important fundamentals for IT support and cybersecurity.
+
+---
+
+### 3. File and Permissions Management
+[View Project on GitHub](https://github.com/users/awnukowski/projects/5)
+
+**Overview:** Hands-on practice creating files and directories, modifying permissions, changing ownership, and verifying changes in Linux. Commands like `mkdir`, `touch`, `chmod`, `chown`, and `ls` were used to manage file system security.  
+
+**Tools/Skills Used:** Linux, Terminal commands, File system management, Permissions management, Ownership management, Troubleshooting  
+
+**Reflection:** I learned how to control access to files and directories in Linux, practice safe system administration, and verify changes effectively. This project reinforced foundational Linux security concepts and prepared me to manage file systems in IT and cybersecurity environments.
+
+---
 
 
 
