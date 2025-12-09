@@ -2,9 +2,9 @@
 🌻 Welcome to my growing portfolio showcasing labs and projects in Linux administration, system security, and cybersecurity. 
 
 ## 📖 Currently Learning
-- Linux command line and system admin
+- Linux command line and system administration
 - Network security basics
-- Virtualization (Hyper-V, VirtualBox)
+- Virtualization (Hyper-V, VirtualBox, Proxmox, GCP VMs)
 - Open-source software fundamentals
 
 ## 🚧 Portfolio Projects 🚧
