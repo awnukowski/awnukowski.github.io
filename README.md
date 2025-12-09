@@ -13,7 +13,8 @@ To showcase my learning and hands-on experience, this portfolio now includes thr
 
 ### Portfolio Projects
 
-- [Virtualization Practice Environment](https://github.com/users/awnukowski/projects/4) — 
+- [Virtualization Practice Environment](https://github.com/users/awnukowski/projects/4) —
+- 
 **Overview:** Commands to create and configure a Linux VM using VirtualBox.  
 **Tools/Skills Used:** VirtualBox, Linux, VM configuration, disk management, ISO installation, terminal commands  
 **Reflection:** I learned how to create and configure virtual machines from scratch, including memory, CPU, and storage settings. Using the terminal to manage VMs helped me understand the steps behind virtualization, preparing me for real-world IT environments.
