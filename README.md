@@ -11,8 +11,6 @@
 
 To showcase my learning and hands-on experience, this portfolio now includes three featured projects:
 
-### Portfolio Projects
-
 ### Virtualization Practice Environment
 [View Project on GitHub](https://github.com/users/awnukowski/projects/4)
 
